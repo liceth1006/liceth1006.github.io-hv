@@ -1,0 +1,20 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.sect {padding: 35px;}
+.seccion1{background-color:#A91EBC;color: white;font-size: 30px;text-align: center;}
+.imagen{height: 8cm;width: 2cm;}
+h2{font-size: 25px;color:black;text-align: center;font-style: normal;}
+.final{background-color: black;color: white;font-size: 25px;font-style: italic;text-align: center;}
+.cuerpo{background-color: skyblue;font-size: 30px;}
+.lista{font-size: 25px;text-align:left;transform: translateX(25px);}
+.laboral{font-size: 30px;}
+.imagen{width: 45%;}
+h3{font-size: 20px;color:black;text-align: left;font-style: normal;}
+.contactame{font-size: 35px;color: #A91EBC;text-align: center;font-style: italic;background-color:black}
+.imagen2{height: 400px;width: 800px;}
+.fondo{background-color: skyblue;padding: 0px;padding-left:  10px;}
+.espec{font-size: 35px ;color:black;text-align: left;font-style: normal;}
